@@ -13,7 +13,7 @@ public class Main {
       double third=p.Product(a,b);
 
         }
-    static class Product{
+    public static class Product{
         public int Product(int x, int y) {
             return x*y;
         }
